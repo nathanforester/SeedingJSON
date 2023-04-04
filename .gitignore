@@ -1,0 +1,4 @@
+*.log*
+.idea
+/web-app
+/tests
